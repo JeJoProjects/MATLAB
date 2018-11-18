@@ -1,4 +1,3 @@
-%% JELIN JOHN  -  2924993
 %%% Assignment 2 - Satellite Geodesy
 
 clc; clear all; format long
